@@ -1,5 +1,4 @@
 <?php session_start(); ?>
-<!-- ciao ciao -->
 <!DOCTYPE html>
 <html lang="it">
 <html>
