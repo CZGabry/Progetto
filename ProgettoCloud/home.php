@@ -1,5 +1,5 @@
 <?php session_start(); ?>
-<!-- CIAO -->
+
 <!DOCTYPE html>
 <html lang="it">
 <html>
