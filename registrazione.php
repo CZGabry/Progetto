@@ -44,7 +44,7 @@ if(strlen($_POST['password']) > 8) {
     }
 
     if($registered == true){
-      echo "Già registrato";
+      echo "Gia registrato";
     }
 
     else {
@@ -72,5 +72,7 @@ if(strlen($_POST['password']) > 8) {
 }
 
 else {
+
   echo "Dati non validi";
+
 }
